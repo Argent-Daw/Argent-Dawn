@@ -11,8 +11,8 @@ This GitHub organization is a collaborative project created by Matthew Earles, B
 
 ## Project Repositories
 
-* Presentation - This repo contains our slideshow material and a link to our full presentation video!
-* SOPs, Topologies, Documentation - This repo contains our SOPs that we implemented for the client, topology for the computr layout and relevant documentation.
-* Scripts - This repo contains all scripts utilized within the automation process.
+* [Presentation](https://github.com/Argent-Daw/Presentation) - This repo contains our slideshow material and a link to our full presentation video!
+* [SOPs, Topologies, Documentation](https://github.com/Argent-Daw/SOP-Topologies-Documentation) - This repo contains our SOPs that we implemented for the client, topology for the computr layout and relevant documentation.
+* [Scripts](https://github.com/Argent-Daw/Scripts) - This repo contains all scripts utilized within the automation process.
 
   
