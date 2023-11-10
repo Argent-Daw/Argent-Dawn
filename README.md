@@ -6,8 +6,8 @@ This GitHub organization is a collaborative project created by Matthew Earles, B
 
 * Matthew Earles - [Github](https://github.com/Matt01965) + [LinkedIn](www.linkedin.com/in/matthew-earles) 
 * Basil Evelyn - Github + LinkedIn
-* Kevin Hoang - Github + LinkedIn
-* Seyed Sohi - Github + LinkedIn
+* Kevin Hoang - [Github](https://github.com/KevinVanHoang)+ [LinkedIn](https://www.linkedin.com/in/kevinvanhoang/)
+* Seyed Sohi - [Github](https://github.com/armoon1) + [LinkedIn](http://www.linkedin.com/in/seyed-sohi)
 
 ## Project Repositories
 
